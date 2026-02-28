@@ -95,25 +95,25 @@ Lancez le programme sans arguments et suivez les instructions :
 
 **Sortie :**
 ```
-🚀 Scan rapide de example.com (20 ports communs)
+ Scan rapide de example.com (20 ports communs)
 
-🎯 PORTS OUVERTS DÉTECTÉS:
+ PORTS OUVERTS DÉTECTÉS:
 --------------------------------------------------
   Port    80: HTTP
   Port   443: HTTPS
 --------------------------------------------------
 
 ==================================================
-📊 STATISTIQUES DU SCAN
+ STATISTIQUES DU SCAN
 ==================================================
-⏱️  Durée du scan: 2.35 secondes
-🔍 Ports scannés: 20
-✅ Ports ouverts: 2
-🔒 Ports fermés: 18
-📋 Services identifiés: 2
+  Durée du scan: 2.35 secondes
+ Ports scannés: 20
+ Ports ouverts: 2
+ Ports fermés: 18
+ Services identifiés: 2
 ==================================================
 
-✨ Scan terminé!
+ Scan terminé!
 ```
 
 #### 2. Scan détaillé avec sauvegarde
